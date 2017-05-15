@@ -25,10 +25,10 @@ How to run:
 
 What it does:
 - After running, it will show a dialogue which asks for following parameters
-—- How many tickets to print
-—- What message to print on Top of Ticket
-—- What message to print on bottom of Ticket
-—- Where to save File
+— How many tickets to print
+— What message to print on Top of Ticket
+— What message to print on bottom of Ticket
+— Where to save File
 - It will create a Tambola.pdf file in the chosen location
 - The pdf file will have 3 tickets per page
 
